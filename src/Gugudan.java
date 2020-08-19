@@ -3,7 +3,7 @@ import java.util.*;
 public class Gugudan {
 
 	public static void main(String[] args) {
-		System.out.println("Chose the number for ±¸±¸´Ü? : ");
+		System.out.println("Chose the number for Times Table? : ");
 		Scanner scanner = new Scanner(System.in);
 		int num = scanner.nextInt();
 		
